@@ -1,34 +1,44 @@
 # ¡Hola! Soy Jorge Vizuete 👋 
 
-### Ingeniero especializado en Análisis de Datos, Mejora de Procesos y Toma de Decisiones
+### Ingeniero especializado en Análisis de Datos, Mejora de Procesos y Toma de Decisiones | Experto en programación Python
 
 ### Data Engineering & Analytics | Business Intelligence
 
 **Gestiono proyectos de mejora de procesos de principio a fin**, desde entender qué necesitan los clientes, los usuarios y los responsables de área hasta implantar la solución y acompañar su puesta en marcha.
 
+Uno de mis principales proyectos profesionales fue la **creación y el desarrollo de un departamento de análisis de datos** para dar soporte a todas las áreas de la empresa en la mejora de procesos y la toma de decisiones.
+
 He gestionado la relación con clientes y trabajado con responsables de distintas áreas para entender cómo operan sus equipos, qué tareas necesitan simplificar y qué información les falta para decidir. A partir de esas necesidades, defino y desarrollo herramientas internas, cuadros de mando e informes que se incorporan al trabajo diario de los equipos.
+
 
 ### Proyectos profesionales
 
-Entre otros, he desarrollado los siguientes proyectos:
+Entre otros, he desarrollado los siguientes proyectos internos:
 
+- **Creación y Desarrollo de un nuevo departamento de análisis de datos para la Mejora de Procesos y Toma de Decisiones, a fin de dar soporte a todas las áreas de la empresa**:
 - **ETL y automatización.** Desarrollo de procesos completos de extracción, transformación y carga de datos procedentes de distintas fuentes, con scripts para automatización.
 - **Seguimiento del departamento de informática.** Elaboración un cuadro de mando en **Power BI** para supervisar el funcionamiento del departamento.
 - **Seguimiento de atención al cliente.** Desarrollo de un cuadro de mando en **Streamlit** para el equipo de atención al cliente.
 - **Análisis de churn.** Análisis de cómo evolucionaba la pérdida de clientes a lo largo del tiempo.
 - **Análisis financiero y de facturación.** Realización de análisis globales y mensuales para hacer seguimiento de la facturación, comparar periodos e identificar variaciones y clusterización de clientes.
 
-
 En mi portfolio, 🌐 **[DataGeorge](https://www.datageorge.com)**, puedes ver ejemplos de este tipo de trabajo.
+
+
+### Proyectos académicos
+
+A continuación os dejo unos ejemplos, de algunos proyectos que exploran mi formación en datos: la gestión de cambios en tablas y el análisis de datos con Spark SQL.
 
 - ⚙️ **Ingeniería de datos** · [Apache Hudi con Spark y Scala](https://github.com/JorgeVizu/apache-hudi-spark-demo) — `UPSERT`, consultas a versiones anteriores y lectura incremental.
 - 📊 **Análisis de datos** · [Alojamientos de Airbnb en Los Ángeles](https://github.com/JorgeVizu/airbnb-spark-scala) — análisis con Spark SQL y Scala.
+
 
 ### Conecta conmigo
 
 <a href="https://www.linkedin.com/in/jorge-vizuete-romero/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jorge Vizuete en LinkedIn" width="32" height="32" />
 </a>
+
 
 ### Lenguajes y herramientas
 
