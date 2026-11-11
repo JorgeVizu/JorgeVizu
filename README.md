@@ -8,8 +8,19 @@
 
 He gestionado la relación con clientes y trabajado con responsables de distintas áreas para entender cómo operan sus equipos, qué tareas necesitan simplificar y qué información les falta para decidir. A partir de esas necesidades, defino y desarrollo herramientas internas, cuadros de mando e informes que se incorporan al trabajo diario de los equipos.
 
+### Proyectos profesionales
 
-- 🌐 **Portfolio** · [DataGeorge](https://www.datageorge.com)
+Entre otros, he desarrollado los siguientes proyectos:
+
+- **ETL y automatización.** Desarrollo de procesos completos de extracción, transformación y carga de datos procedentes de distintas fuentes, con scripts para automatización.
+- **Seguimiento del departamento de informática.** Elaboración un cuadro de mando en **Power BI** para supervisar el funcionamiento del departamento.
+- **Seguimiento de atención al cliente.** Desarrollo de un cuadro de mando en **Streamlit** para el equipo de atención al cliente.
+- **Análisis de churn.** Análisis de cómo evolucionaba la pérdida de clientes a lo largo del tiempo.
+- **Análisis financiero y de facturación.** Realización de análisis globales y mensuales para hacer seguimiento de la facturación, comparar periodos e identificar variaciones y clusterización de clientes.
+
+
+En mi portafolio, 🌐 **[DataGeorge](https://www.datageorge.com)**, puedes ver ejemplos de este tipo de trabajo.
+
 - ⚙️ **Ingeniería de datos** · [Apache Hudi con Spark y Scala](https://github.com/JorgeVizu/apache-hudi-spark-demo) — `UPSERT`, consultas a versiones anteriores y lectura incremental.
 - 📊 **Análisis de datos** · [Alojamientos de Airbnb en Los Ángeles](https://github.com/JorgeVizu/airbnb-spark-scala) — análisis con Spark SQL y Scala.
 
