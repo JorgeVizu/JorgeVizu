@@ -15,7 +15,6 @@ He gestionado la relación con clientes y trabajado con responsables de distinta
 
 Entre otros, he desarrollado los siguientes proyectos internos:
 
-- **Creación y Desarrollo de un nuevo departamento de análisis de datos para la Mejora de Procesos y Toma de Decisiones, a fin de dar soporte a todas las áreas de la empresa**:
 - **ETL y automatización.** Desarrollo de procesos completos de extracción, transformación y carga de datos procedentes de distintas fuentes, con scripts para automatización.
 - **Seguimiento del departamento de informática.** Elaboración un cuadro de mando en **Power BI** para supervisar el funcionamiento del departamento.
 - **Seguimiento de atención al cliente.** Desarrollo de un cuadro de mando en **Streamlit** para el equipo de atención al cliente.
