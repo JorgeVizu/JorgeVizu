@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jorge Vizuete 👋
+# ¡Hola! Soy Jorge Vizuete 👋 ### Un apasionado ingeniero especializado en Análisis de Datos, Mejora de Procesos y Toma de Decisiones
 
 ### Data Engineering & Analytics | Business Intelligence
 
