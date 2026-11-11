@@ -20,6 +20,7 @@ Entre otros, he desarrollado los siguientes proyectos internos:
 - **Seguimiento de atención al cliente.** Desarrollo de un cuadro de mando en **Streamlit** para el equipo de atención al cliente.
 - **Análisis de churn.** Análisis de cómo evolucionaba la pérdida de clientes a lo largo del tiempo.
 - **Análisis financiero y de facturación.** Realización de análisis globales y mensuales para hacer seguimiento de la facturación, comparar periodos e identificar variaciones y clusterización de clientes.
+- **Segmentación de clientes.** Apliqué técnicas de agrupamiento (*clustering*) para identificar grupos de clientes.
 
 En mi portfolio, 🌐 **[DataGeorge](https://www.datageorge.com)**, puedes ver ejemplos de este tipo de trabajo.
 
