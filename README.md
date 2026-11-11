@@ -1,10 +1,15 @@
-# ¡Hola! Soy Jorge Vizuete 👋 Ingeniero especializado en Análisis de Datos, Mejora de Procesos y Toma de Decisiones
+# ¡Hola! Soy Jorge Vizuete 👋 
+
+### Ingeniero especializado en Análisis de Datos, Mejora de Procesos y Toma de Decisiones
 
 ### Data Engineering & Analytics | Business Intelligence
 
-Comparto desde Valencia proyectos de ingeniería de datos, análisis y visualización con Apache Spark, Scala, SQL y Python.
+**Gestiono proyectos de mejora de procesos de principio a fin**, desde entender qué necesitan los clientes, los usuarios y los responsables de área hasta implantar la solución y acompañar su puesta en marcha.
 
-- 🌐 **Portafolio** · [DataGeorge](https://www.datageorge.com)
+He gestionado la relación con clientes y trabajado con responsables de distintas áreas para entender cómo operan sus equipos, qué tareas necesitan simplificar y qué información les falta para decidir. A partir de esas necesidades, defino y desarrollo herramientas internas, cuadros de mando e informes que se incorporan al trabajo diario de los equipos.
+
+
+- 🌐 **Portfolio** · [DataGeorge](https://www.datageorge.com)
 - ⚙️ **Ingeniería de datos** · [Apache Hudi con Spark y Scala](https://github.com/JorgeVizu/apache-hudi-spark-demo) — `UPSERT`, consultas a versiones anteriores y lectura incremental.
 - 📊 **Análisis de datos** · [Alojamientos de Airbnb en Los Ángeles](https://github.com/JorgeVizu/airbnb-spark-scala) — análisis con Spark SQL y Scala.
 
