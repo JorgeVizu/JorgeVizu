@@ -19,7 +19,7 @@ Entre otros, he desarrollado los siguientes proyectos:
 - **Análisis financiero y de facturación.** Realización de análisis globales y mensuales para hacer seguimiento de la facturación, comparar periodos e identificar variaciones y clusterización de clientes.
 
 
-En mi portafolio, 🌐 **[DataGeorge](https://www.datageorge.com)**, puedes ver ejemplos de este tipo de trabajo.
+En mi portfolio, 🌐 **[DataGeorge](https://www.datageorge.com)**, puedes ver ejemplos de este tipo de trabajo.
 
 - ⚙️ **Ingeniería de datos** · [Apache Hudi con Spark y Scala](https://github.com/JorgeVizu/apache-hudi-spark-demo) — `UPSERT`, consultas a versiones anteriores y lectura incremental.
 - 📊 **Análisis de datos** · [Alojamientos de Airbnb en Los Ángeles](https://github.com/JorgeVizu/airbnb-spark-scala) — análisis con Spark SQL y Scala.
